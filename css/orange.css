@@ -1,0 +1,27 @@
+/* background:#393F28 hara */
+/* background:#CDA450 pila */
+/* background:#646C49  lite hara */
+
+.topstrip, .links,  .bg-dark, .newsticker, #nav-tab .active, .pinkbg{
+
+    background:#9F1919 !important;
+    
+    }
+    
+
+
+    #nav-tab .nav-link, .greenbg, .bluebutton, .bottombg
+    {
+        background:#303030;
+
+    }
+
+
+    .tab-pane h2, .greybackground h2, .photogallery h2{
+
+color: #303030;
+
+    }
+
+
+    .darkbottom{ background:black;}
