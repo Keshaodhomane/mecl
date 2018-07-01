@@ -2,15 +2,21 @@
 /* background:#CDA450 pila */
 /* background:#646C49  lite hara */
 
-.topstrip, .links,  .bg-dark, .newsticker, #nav-tab .active, .pinkbg{
+.topstrip,  .bg-dark, .newsticker, #nav-tab .active, .pinkbg, .pinkbg::before, .pinkbg::after, .sidelinks a{
 
-    background:#9F1919 !important;
+    background:#E07110;
     
     }
     
+    .links, .bg-dark, #nav-tab .active { background:#E07110 !important; }
 
 
-    #nav-tab .nav-link, .greenbg, .bluebutton, .bottombg
+    .Modern-Slider .item h3 { background:rgba(224,113,16,0.7) !important;   }
+    
+    .Modern-Slider .item h5 { background:rgba(48,48,48,0.7) !important;  }
+
+
+    #nav-tab .nav-link, .greenbg, .bluebutton, .bottombg, .greenbg::before, .greenbg::after, .sidelinks a:hover
     {
         background:#303030;
 

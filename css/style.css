@@ -1184,7 +1184,7 @@ text-align: center;
 
 
 
-.black-css{  line-height: 22px !important; width: 20px; background: #6D6D6D; border-radius: 2px; border:1px solid rgba(255,255,255,0.4);}
+.black-css{  line-height: 22px !important; width: 20px; background: #000000; border-radius: 2px; border:1px solid rgba(255,255,255,0.4);}
 .blue-css{   line-height: 22px !important; width: 20px; background: #00535F; border-radius: 2px; border:1px solid rgba(255,255,255,0.4);}
-.green-css{  line-height: 22px !important; width: 20px; background: #1AA82A; border-radius: 2px; border:1px solid rgba(255,255,255,0.4);}
-.orange-css{ line-height: 22px !important; width: 20px; background: #9F1919; border-radius: 2px; border:1px solid rgba(255,255,255,0.4);}
+.green-css{  line-height: 22px !important; width: 20px; background: #548618; border-radius: 2px; border:1px solid rgba(255,255,255,0.4);}
+.orange-css{ line-height: 22px !important; width: 20px; background: #E07110; border-radius: 2px; border:1px solid rgba(255,255,255,0.4);}
