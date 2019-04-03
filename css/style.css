@@ -41,7 +41,7 @@ font-family: 'roboto';
     display: block;
     width:60px;
     
-    background:#FF4E48;
+    background:#570413;
     text-align: center;
     padding-top:20px;
     padding-bottom:20px;
@@ -146,7 +146,7 @@ font-family: 'roboto';
 
 .newsticker
 {
-   background:#FF4E47;
+   background:#570413;
    color: #fff; 
    padding-top: 10px;
    margin-bottom: 40px;
@@ -161,7 +161,7 @@ font-family: 'roboto';
 
 #nav-tab .active {
 
-background:#FF4E48 !important;
+background:#570413 !important;
 color: #fff !important;
 border-radius: 0 !important;
 
@@ -180,7 +180,7 @@ color: #00535F;
 font-family: 'roboto'
 }
 
-.redfont{color: #FF4E47;}
+.redfont{color: #570413;}
 
 
 .tab-pane h2
@@ -211,7 +211,7 @@ font-family: 'roboto'
 {
 text-decoration: none;
 color: #fff;
-background:#FF4E47;
+background:#570413;
 }
 
 
@@ -248,7 +248,7 @@ padding-right: 30px;
 
 .pinkbg{
 
-background:#FF4E47;
+background:#570413;
 position: relative;
 
 }
@@ -263,7 +263,7 @@ position: relative;
     position: absolute;
     top: -48px;
     left: 0;
-    background-color: #FF4E47;
+    background-color: #570413;
     transform: skewY(-3.5deg);
 }
 
@@ -276,7 +276,7 @@ position: relative;
     position: absolute;
     bottom: -48px;
     left: 0;
-    background-color: #FF4E47;
+    background-color: #570413;
     transform: skewY(3.5deg);
 }
 
@@ -363,7 +363,7 @@ margin:0 calc((100% - 535px)/2);
 .datebox h4{
 
 display: block;
-background: #FF4E47;
+background: #570413;
 color: #fff;
 font-family: 'roboto condensed';
 font-size: 15px;
@@ -436,7 +436,7 @@ padding: 80px 0 40px 0;
 
 #owl-demo2 .owl-prev:hover, #owl-demo2 .owl-next:hover
 {
-    background:#FF4E47;
+    background:#570413;
 
 }
 
@@ -497,7 +497,7 @@ border:1px solid #CFCFCF;
 
 .services-grid >div:hover
 {
-    background-color: #FF4E47;
+    background-color: #570413;
 }
 
 
@@ -857,7 +857,7 @@ text-align: center;
     text-align-last: center;
     -webkit-animation: fadeOutLeft 1s both;
     animation: fadeOutLeft 1s both;
-    background-color:rgba(255,78,71,0.8); 
+    background-color:#570413;
 }
 
 .Modern-Slider .item.slick-active h3 {
